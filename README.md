@@ -1,2 +1,2 @@
-# ddsoftmake.gethub.io
+# ddsoftmake.github.io
 Hexo Blog
